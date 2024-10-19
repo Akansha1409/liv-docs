@@ -30,3 +30,4 @@ To get a local copy up and running, follow these steps:
    Clone the repository:
    ```bash
    git clone https://github.com/YOUR_GITHUB_USERNAME/LiveDocs.git
+🌟 Enjoy using AutoSuggest! 🌟
