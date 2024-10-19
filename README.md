@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 📄 LiveDocs
 
-## Getting Started
+LiveDocs is a real-time collaborative document editor that allows multiple users to edit the same document simultaneously. It provides an intuitive interface and rich text editing features, making it ideal for team collaboration.
 
-First, run the development server:
+## ✨ Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- 🔄 **Real-time Collaboration**: Multiple users can edit documents at the same time with live updates.
+- ✍️ **Rich Text Editing**: Offers various formatting options for enhanced document presentation.
+- 🌐 **Interactive UI**: Built with a modern user interface for seamless user experience.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Technologies Used
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Frontend**: React, Tailwind CSS
+- **Backend**: Node.js, Express
+- **Real-time Functionality**: Liveblocks
+- **Rich Text Editor**: Lexical Editor
+- **UI Components**: ShadCN
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 📦 Installation and Setup
 
-## Learn More
+To get a local copy up and running, follow these steps:
 
-To learn more about Next.js, take a look at the following resources:
+### Prerequisites
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Node.js (v14 or later)
+- Git
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Steps to Install
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+   Clone the repository:
+   ```bash
+   git clone https://github.com/YOUR_GITHUB_USERNAME/LiveDocs.git
