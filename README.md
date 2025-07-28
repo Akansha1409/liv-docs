@@ -24,7 +24,7 @@ LiveDocs is a real-time collaborative document editor that allows multiple users
 - **UI Components**: ShadCN
   
 🚀 Live Demo
-👉 https://livedocs.vercel.app (replace with your actual deployment link)
+👉 https://liv-docs-gu2i-git-main-akanshas-projects-76a6fd7b.vercel.app/sign-in
 
 📦 Installation & Setup
 ✅ Prerequisites
@@ -37,7 +37,7 @@ bash
 Copy
 Edit
 # Clone the repo
-git clone https://github.com/YOUR_GITHUB_USERNAME/LiveDocs.git
+git clone https://github.com/Akansha1409/liv-docs
 
 # Navigate into the project directory
 cd LiveDocs
