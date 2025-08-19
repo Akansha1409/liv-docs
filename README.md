@@ -65,8 +65,9 @@ npm install
 # Start the development server
 npm run dev
 Now open http://localhost:3000 to view it in your browser.
+```
 
-🤖 AI Usage Report
+### 🤖 AI Usage Report
 AI Tools Used
 Primary Tools: ChatGPT, GitHub Copilot
 
