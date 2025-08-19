@@ -68,30 +68,23 @@ Now open http://localhost:3000 to view it in your browser.
 ```
 
 ### 🤖 AI Usage Report
-AI Tools Used
-Primary Tools: ChatGPT, GitHub Copilot
 
-Use Cases:
+**💡 AI Tools Used**  
+- **Primary Tools:** ChatGPT, GitHub Copilot  
 
-Component scaffolding with React & Tailwind CSS
+**🛠️ Use Cases:**  
+- Scaffolded React components & Tailwind CSS layouts  
+- Integrated and debugged Lexical Editor setup  
+- Suggested styling improvements and modern layouts  
+- Generated logic for real-time syncing using Liveblocks  
 
-Integrating and debugging Lexical Editor setup
+**📝 Sample Prompts:**  
+- `"Create a responsive Lexical-based editor layout using Tailwind CSS and React."`  
+- `"How to use Liveblocks for real-time text collaboration in React?"`  
+- `"Suggest Tailwind classes for a minimal, modern document editor."`  
 
-Styling suggestions and layout improvements
-
-Logic generation for real-time syncing (Liveblocks)
-
-Sample Prompts
-"Create a responsive Lexical-based editor layout using Tailwind CSS and React."
-
-"How to use Liveblocks for real-time text collaboration in React?"
-
-"Suggest Tailwind classes for a minimal, modern document editor."
-
-AI vs Manual Work Split
-AI-generated: 50%
-(boilerplate, component logic, styling snippets)
-
-Manual Coding: 50%
-(real-time logic implementation, UI polish, component optimization)
-
+**⚖️ AI vs Manual Work Split:**  
+| Work Type         | % Contribution | Notes |
+|------------------|----------------|-------|
+| AI-Generated      | 50%            | Boilerplate code, component logic, styling snippets |
+| Manual Coding     | 50%            | Custom logic, integration, debugging, optimization |
